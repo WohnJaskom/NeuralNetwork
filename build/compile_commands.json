@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/wohn/Documents/NeuralNetwork/build",
+  "command": "/usr/bin/g++  -I/home/wohn/Documents/NeuralNetwork/./include -Wall -Wextra -Wpedantic -g -o CMakeFiles/NeuralNet.dir/src/main.cpp.o -c /home/wohn/Documents/NeuralNetwork/src/main.cpp",
+  "file": "/home/wohn/Documents/NeuralNetwork/src/main.cpp",
+  "output": "CMakeFiles/NeuralNet.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/wohn/Documents/NeuralNetwork/build",
+  "command": "/usr/bin/g++  -I/home/wohn/Documents/NeuralNetwork/./include -Wall -Wextra -Wpedantic -g -o CMakeFiles/NeuralNet.dir/src/Net.cpp.o -c /home/wohn/Documents/NeuralNetwork/src/Net.cpp",
+  "file": "/home/wohn/Documents/NeuralNetwork/src/Net.cpp",
+  "output": "CMakeFiles/NeuralNet.dir/src/Net.cpp.o"
+}
+]

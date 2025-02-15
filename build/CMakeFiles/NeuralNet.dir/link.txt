@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/NeuralNet.dir/src/main.cpp.o CMakeFiles/NeuralNet.dir/src/Net.cpp.o -o NeuralNet 

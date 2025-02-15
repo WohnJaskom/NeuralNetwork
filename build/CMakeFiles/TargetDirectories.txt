@@ -1,0 +1,3 @@
+/home/wohn/Documents/NeuralNetwork/build/CMakeFiles/NeuralNet.dir
+/home/wohn/Documents/NeuralNetwork/build/CMakeFiles/edit_cache.dir
+/home/wohn/Documents/NeuralNetwork/build/CMakeFiles/rebuild_cache.dir
